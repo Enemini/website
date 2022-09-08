@@ -140,3 +140,9 @@ hr{
 .align {
   text-align:left;
 }
+@media(max-width: 1028px){
+  .img-responsive{
+    width: 50%;
+    height:50%;
+  }
+}
