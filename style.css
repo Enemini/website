@@ -145,4 +145,7 @@ hr{
     width: 50%;
     height:50%;
   }
+  body{
+    font-size:50%;
+  }
 }
